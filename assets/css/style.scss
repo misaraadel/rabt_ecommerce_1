@@ -293,12 +293,16 @@
         }
       }
 
-      .brand-name img {
-        width: 150px;
-        height: 80px;
-        object-fit: contain;
+      .brand-name {
+        img {
+          width: 150px;
+          height: 80px;
+          object-fit: contain;
+        }
+        font-size: 30px;
+        font-weight: 900;
+        color: #000;
       }
-
       .form-contain {
         width: 450px;
         height: 50px;
